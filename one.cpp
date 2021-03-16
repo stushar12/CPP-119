@@ -22,7 +22,7 @@ using namespace std;
                 if(nums[i]>nums[index-1])
                 {
                     prev=i;
-					break;
+		    break;
                 }
             }
         
